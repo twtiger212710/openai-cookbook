@@ -14,6 +14,16 @@
     - open-models
     - guardrails
 
+- title: Build a FastAPI code runner endpoint for tool calls
+  path: articles/code-runner-fastapi.md
+  date: 2025-02-25
+  authors:
+    - daveleo-openai
+  tags:
+    - fastapi
+    - agents
+    - tools
+
 - title: Build, deploy, and optimize agentic workflows with AgentKit
   path: examples/agentkit/agentkit_walkthrough.ipynb
   date: 2025-10-17
